@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
 
       <p>
-        © 2026 MovieExplorer. All rights reserved.
+        © 2026 MovieExplorer. All right reserved ok.
       </p>
 
     </footer>
